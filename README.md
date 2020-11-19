@@ -22,3 +22,4 @@ each have a button to the git hub
 The Brown Bag does not have the heroku link in the github because
 it does not exist yet.
 
+used JS compress to make a quicker load time with my JS
