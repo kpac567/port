@@ -20,5 +20,5 @@ From the home page this can be clicked on
 There are the two projects I have worked on so far
 each have a button to the git hub 
 The Brown Bag does not have the heroku link in the github because
-it does not exist yet
+it does not exist yet.
 
